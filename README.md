@@ -9,4 +9,5 @@
 | 3 | [Secrets](https://exercism.org/tracks/elixir/exercises/secrets)   | In this exercise you have seven tasks, for each task, return an anonymous function that can be invoked from the calling scope. |
 | 4 | [Rules](https://exercism.org/tracks/elixir/exercises/rules)   |In this exercise, you need to translate some rules from the classic game Pac-Man into Elixir functions. |
 | 5 | [Freelancer Rates](https://exercism.org/tracks/elixir/exercises/freelancer-rates)   |In this exercise you'll be writing code to quickly calculate daily and monthly rates, optionally with a given discount. |
+| 6 | [Language List](https://exercism.org/tracks/elixir/exercises/language-list)   |In this exercise you need to implement some functions to manipulate a list of programming languages. |
 
