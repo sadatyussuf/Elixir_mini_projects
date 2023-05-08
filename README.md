@@ -11,4 +11,5 @@
 | 5 | [Freelancer Rates](https://exercism.org/tracks/elixir/exercises/freelancer-rates)   |In this exercise you'll be writing code to quickly calculate daily and monthly rates, optionally with a given discount. |
 | 6 | [Language List](https://exercism.org/tracks/elixir/exercises/language-list)   |In this exercise you need to implement some functions to manipulate a list of programming languages. |
 | 7 | [Log Level](https://exercism.org/tracks/elixir/exercises/log-level)   | Write a small program that will aggregate given logs and give them labels according to their severity level. |
+| 8 | [Guessing Game](https://exercism.org/tracks/elixir/exercises/guessing-game)   | Create a simple guessing game where a friend can guess a secret number. |
 
