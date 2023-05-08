@@ -13,3 +13,5 @@
 | 7 | [Log Level](https://exercism.org/tracks/elixir/exercises/log-level)   | Write a small program that will aggregate given logs and give them labels according to their severity level. |
 | 8 | [Guessing Game](https://exercism.org/tracks/elixir/exercises/guessing-game)   | Create a simple guessing game where a friend can guess a secret number. |
 
+| 9 | [Kitchen Calculator](https://exercism.org/tracks/elixir/exercises/kitchen-calculator)   | Write a program to convert common US baking measurements for your own ease. |
+
