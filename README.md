@@ -14,4 +14,5 @@
 | 8 | [Guessing Game](https://exercism.org/tracks/elixir/exercises/guessing-game)   | Create a simple guessing game where a friend can guess a secret number. |
 
 | 9 | [Kitchen Calculator](https://exercism.org/tracks/elixir/exercises/kitchen-calculator)   | Write a program to convert common US baking measurements for your own ease. |
+| 10 | [High School Sweetheart](https://exercism.org/tracks/elixir/exercises/high-school-sweetheart)   | In this exercise, you are going to help high school sweethearts profess their love on social media by generating an ASCII heart with their initials. |
 
