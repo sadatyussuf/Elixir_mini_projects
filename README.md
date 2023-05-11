@@ -15,4 +15,5 @@
 
 | 9 | [Kitchen Calculator](https://exercism.org/tracks/elixir/exercises/kitchen-calculator)   | Write a program to convert common US baking measurements for your own ease. |
 | 10 | [High School Sweetheart](https://exercism.org/tracks/elixir/exercises/high-school-sweetheart)   | In this exercise, you are going to help high school sweethearts profess their love on social media by generating an ASCII heart with their initials. |
+| 11 | [Bird Count](https://exercism.org/tracks/elixir/exercises/bird-count)   | You're an avid bird watcher that keeps track of how many birds have visited your garden on any given day. Implement a few tools that will help you track and process the data. |
 
