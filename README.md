@@ -19,4 +19,5 @@
 | 12 | [High Score](https://exercism.org/tracks/elixir/exercises/high-score)   | In this exercise, you're implementing a way to keep track of the high scores for the most popular game in your local arcade hall. |
 | 13 | [City Office](https://exercism.org/tracks/elixir/exercises/city-office)   |  Write a documentation and typecast your code. |
 | 14 | [German Sysadmin](https://exercism.org/tracks/elixir/exercises/german-sysadmin)   |  Create a function to standardize e-mails. |
+| 15 | [RPG Character Sheet](https://exercism.org/tracks/elixir/exercises/rpg-character-sheet)   |   Write a small program to document the rules of a simple RPG |
 
