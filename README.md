@@ -20,7 +20,7 @@
 | 13 | [City Office](https://exercism.org/tracks/elixir/exercises/city-office)   |  Write a documentation and typecast your code. |
 | 14 | [German Sysadmin](https://exercism.org/tracks/elixir/exercises/german-sysadmin)   |  Create a function to standardize e-mails. |
 | 15 | [RPG Character Sheet](https://exercism.org/tracks/elixir/exercises/rpg-character-sheet)   |   Write a small program to document the rules of a simple RPG |
-| 16 | [Name Badge](https://exercism.org/tracks/elixir/exercises/name_badge)   |  In this exercise write code to print name badges for factory employees. |
+| 16 | [Name Badge](https://exercism.org/tracks/elixir/exercises/name-badge)   |  In this exercise write code to print name badges for factory employees. |
 | 17 | [Take-A-Number](https://exercism.org/tracks/elixir/exercises/take-a-number)   |  Write an embedded system for a Take-A-Number machine. |
-| 18 | [ Paint By Number](https://exercism.org/tracks/elixir/exercises/paint_by_number)   |  You have been tasked with writing a paint-by-number app in Elixir.|
-
+| 18 | [ Paint By Number](https://exercism.org/tracks/elixir/exercises/paint-by-number)   |  You have been tasked with writing a paint-by-number app in Elixir.|
+| 19 | [ Log Parser](https://exercism.org/tracks/elixir/exercises/log-parser)   |  You have been tasked to clean up the organization's archived log files.|
