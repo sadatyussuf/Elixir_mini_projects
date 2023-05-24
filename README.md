@@ -24,4 +24,5 @@
 | 17 | [Take-A-Number](https://exercism.org/tracks/elixir/exercises/take-a-number)   |  Write an embedded system for a Take-A-Number machine. |
 | 18 | [ Paint By Number](https://exercism.org/tracks/elixir/exercises/paint-by-number)   |  You have been tasked with writing a paint-by-number app in Elixir.|
 | 19 | [ Log Parser](https://exercism.org/tracks/elixir/exercises/log-parser)   |  You have been tasked to clean up the organization's archived log files.|
-| 20 | [ Wine Cellar](https://exercism.org/tracks/elixir/exercises/wine_cellar)   |  You hav bn tasked with writing an app that will let guests filter wines by their preferences.
+| 20 | [ Wine Cellar](https://exercism.org/tracks/elixir/exercises/wine_cellar)   |  You hav been tasked with writing an app that will let guests filter wines by their preferences.
+| 21 | [ Library Fees ](https://exercism.org/tracks/elixir/exercises/library_fees)   |  You hav been tasked with writing an app manipulating dates for your local library.
