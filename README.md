@@ -26,3 +26,4 @@
 | 20 | [ Wine Cellar](https://exercism.org/tracks/elixir/exercises/wine_cellar)   |  You have been tasked with writing an app that will let guests filter wines by their preferences.
 | 21 | [ Library Fees ](https://exercism.org/tracks/elixir/exercises/library_fees)   |  You have been tasked with writing an app manipulating dates for your local library.
 | 22 | [ Basketball Website](https://exercism.org/tracks/elixir/exercises/basketball-website) | You have been tasked to write a function that extracts data from a series of nested maps from a path.|
+| 23 | [ Boutique Inventory](https://exercism.org/tracks/elixir/exercises/boutique-inventory) | Given a map of products, write a program to do taks like sorting items by price, finding items with missing prices, updating item names, increasing item quantities, and calculating the total quantity of an item.|
